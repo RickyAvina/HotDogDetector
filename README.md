@@ -1,5 +1,6 @@
 # Final Result
 ![Hot dog detector](hotdog.png)
+This is not technically a hot dog... but this network was trained on "sausage, hot dog, frankfurter" and is not too rigorous a model.
 
 Steps towards reproducing results:
   # Data gathering
