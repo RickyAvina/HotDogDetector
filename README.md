@@ -1,3 +1,6 @@
+# Final Result
+![Hot dog detector](hotdog.png)
+
 Steps towards reproducing results:
   # Data gathering
   Run the `download_multiple` function inside of `download_google_images.py`. Example usage:
