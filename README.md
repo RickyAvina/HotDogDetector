@@ -35,3 +35,5 @@ Inside of `data_prep.py`, `create_batches` will achieve this.
 Now, from `main.py`, we will reference this `data` folder to actually train our CNN. Running this file will create `.h5` models at every epoch. You can test this model using `pred.py`.
 
 Now we must use `convert.py` to convert it to an `.mlmodel`, which is the format iOS uses.
+
+`ViewController.swift` has the necessary swift code for model inference using the native camera. Make sure to add the camera privacy description in your `info.plist`
